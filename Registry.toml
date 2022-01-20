@@ -1,0 +1,6 @@
+name = "schrimpf"
+uuid = "bfa01b86-6834-4d9d-9b5e-d279d1a58764"
+repo = "git@github.com:schrimpf/juliaregistry"
+description = "Packages for teaching"
+
+[packages]

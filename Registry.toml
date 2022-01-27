@@ -5,3 +5,4 @@ description = "Packages for teaching"
 
 [packages]
 9b71aec8-1451-11e9-12ed-579ec60579c4 = { name = "Dialysis", path = "D/Dialysis" }
+c9742c04-3141-4011-ba40-1120baaac28c = { name = "BLPDemand", path = "B/BLPDemand" }
